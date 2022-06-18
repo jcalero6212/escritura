@@ -6,10 +6,6 @@ package com.kernivel.escritura;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Roberto Calero
- */
 public class LecturaDatos {
     
     public static String LeerCadena(String cadena){
